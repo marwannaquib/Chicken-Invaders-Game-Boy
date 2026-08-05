@@ -1,0 +1,9 @@
+Item #,Component Name / Description,Qty,Unit Price (EGP),Total Price (EGP),Reference / Source Notes
+1,Arduino Mega 2560 Rev3 (Clone) - Main microcontroller board for running game logic,1,"1,450 EGP","1,450 EGP",https://www.ram-e-shop.com/shop/kit-arduino-mega2560-arduino-mega2560-rev3-original-chips-clone-6660
+2,2.4 inch TFT LCD Touch Display - Screen for rendering game graphics,1,450 EGP,450 EGP,https://www.ram-e-shop.com/shop/kit-lcd-tft2-4-ts-lcd-tft-2-4-inch-touch-display-for-arduino-uno-mega2560-7080
+3,2-Axis Thumb Joystick Module (SF9032) - 2-axis analog control for spaceship movement,1,40 EGP,40 EGP,https://www.ram-e-shop.com/shop/sf9032-thumb-joystick-2-axis-analog-output-sku-sf9032-6734
+4,4-Pin Tactile Switch (6x6x4.5mm) - Game controls as in weapons and defence,4,0.75 EGP,3 EGP,https://www.ram-e-shop.com/shop/press4pin-short-press-4pin-6x6x4-5-mm-tack-switch-5675
+5,830 Tie-Point Solderless Breadboard - Prototyping board for component connections (Note: A smaller breadboard can also be used),1,35 EGP,35 EGP,https://www.ram-e-shop.com/shop/bb01-bread-board-bb-01-breadboard-830-tie-point-6143
+6,Jumper Wires - Interconnecting power and signal lines between components,Not Available,Not Available,Not Available,Circuit wiring and interconnections
+-,Total Project Cost (EGP),,,"1,978 EGP",
+-,Total Project Cost (USD),,,~$39.17 USD,Baseline exchange conversion
