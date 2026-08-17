@@ -3,6 +3,8 @@ Now the game logic is 10 rounds that you play as a ship at the bottom of the scr
 
 Furthermore, there is also a way to upgrade the weapons you have by collecting drumsticks. Chickens you kill have a 30% chance of dropping drumsticks, and if u collect 5, the tier bar fills up at the top, and it resets to tier 2; then your weapons' fire rates and damage increase, hower this is capped at tier 3.
 
+The player's screen displays 3 things other than the gameplay: the health bar, which is always displayed and changes when you get damaged; the wave indicator, which tells you what wave you are in; and lastly the tier bar, whichdisplays howmuch is left until the next tier and what tier you are in to help you upgrade your weapons.
+
 | Item # | Component Name / Description | Qty | Unit Price (EGP) | Total Price (EGP) | Reference / Source Notes |
 | :--- | :--- | :---: | :---: | :---: | :--- |
 | 1 | Arduino Mega 2560 Rev3 (Clone) - Main microcontroller board for running game logic | 1 | 1,450 EGP | 1,450 EGP | [RAM E-Shop Link](https://www.ram-e-shop.com/shop/kit-arduino-mega2560-arduino-mega2560-rev3-original-chips-clone-6660) |
